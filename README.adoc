@@ -11,3 +11,13 @@ https://github.com/habuma/spring-in-action-5-samples/tree/master/ch09[spring-in-
 This folder contains 2 subfolders:
 
  - `simple-flow` : Shows the simple example from section 9.1
+
+ === Create branch from master 
+
+----
+# create new branch jpa-entities and switch to it
+git checkout -b ch02-init
+
+# push new branch to github
+git push -u origin ch02-init
+----
